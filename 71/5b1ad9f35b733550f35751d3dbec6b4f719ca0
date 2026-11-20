@@ -1,0 +1,35 @@
+vllm_ascend/ascend_config.py
+  s_8a213c1502fad2::t_6a8bed9d060cdb 1113,1115-1116
+vllm_ascend/models/deepseek_v41/input_embedding.py
+  s_8a213c1502fad2::t_6a8bed9d060cdb 10,89-90,102-103,127
+tests/ut/worker/test_model_runner_v2.py
+  s_8a213c1502fad2::t_2959707bd2bf3b 18,50,797-808
+  s_8a213c1502fad2::t_cae30730f8a8a7 809-810
+release_notes/fragments/22609.yaml
+  s_8a213c1502fad2::t_2959707bd2bf3b 5-8
+vllm_ascend/worker/v2/model_runner.py
+  s_8a213c1502fad2::t_6a8bed9d060cdb 380-384,391,407
+tests/ut/test_ascend_config.py
+  s_8a213c1502fad2::t_2959707bd2bf3b 93-96,100-101,108-117
+  s_8a213c1502fad2::t_3d996351f03b9d 97-99,102-107
+docs/source/user_guide/configuration/additional_config.md
+  s_8a213c1502fad2::t_2959707bd2bf3b 58
+tests/ut/models/test_deepseek_v41_input_embedding.py
+  s_8a213c1502fad2::t_2959707bd2bf3b 10,27-36,39-40,44-45,47-57,63-64,80,95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "715b1ad9f35b733550f35751d3dbec6b4f719ca0",
+  "prompts": {},
+  "sessions": {
+    "s_8a213c1502fad2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f6b7-4aa6-7ec1-9426-c9863dea3ed9",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Zhou ziheng <jiaranran2@gmail.com>"
+    }
+  }
+}
