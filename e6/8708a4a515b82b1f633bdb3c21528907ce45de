@@ -1,0 +1,19 @@
+release_notes/fragments/22609.yaml
+  s_8a213c1502fad2::t_f577909ca2bb9f 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e68708a4a515b82b1f633bdb3c21528907ce45de",
+  "prompts": {},
+  "sessions": {
+    "s_8a213c1502fad2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f6b7-4aa6-7ec1-9426-c9863dea3ed9",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Zhou ziheng <jiaranran2@gmail.com>"
+    }
+  }
+}
