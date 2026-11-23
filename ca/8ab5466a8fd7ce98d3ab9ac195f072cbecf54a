@@ -1,0 +1,19 @@
+vllm_ascend/ops/triton/activation/routed_swiglu.py
+  s_91029cd6918967::t_a92a3e089e40b2 53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ca8ab5466a8fd7ce98d3ab9ac195f072cbecf54a",
+  "prompts": {},
+  "sessions": {
+    "s_91029cd6918967": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a206c7-346e-76d1-999a-5e73a37b40a1",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Zhou ziheng <jiaranran2@gmail.com>"
+    }
+  }
+}
