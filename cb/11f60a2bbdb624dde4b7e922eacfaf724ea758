@@ -1,0 +1,32 @@
+vllm_ascend/ops/triton/activation/routed_swiglu.py
+  s_91029cd6918967::t_b9b42220674a7e 9,18,24-25,32,38
+vllm_ascend/ops/fused_moe/dataclass/moe_mlp.py
+  s_91029cd6918967::t_b9b42220674a7e 63
+tests/e2e/nightly/single_node/ops/singlecard_ops/triton/test_routed_swiglu.py
+  s_91029cd6918967::t_b9b42220674a7e 18-20,24-25,50-69,71-78
+  s_91029cd6918967::t_3b81b71e3c0fb4 29,70
+vllm_ascend/ops/triton/docs/routed_swiglu.md
+  s_91029cd6918967::t_3b81b71e3c0fb4 1-37
+vllm_ascend/device/hardware_profile.py
+  s_91029cd6918967::t_b9b42220674a7e 125-126,390
+tests/ut/device/test_hardware_profile.py
+  s_91029cd6918967::t_b9b42220674a7e 69
+release_notes/fragments/22519.yaml
+  s_91029cd6918967::t_3b81b71e3c0fb4 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cb11f60a2bbdb624dde4b7e922eacfaf724ea758",
+  "prompts": {},
+  "sessions": {
+    "s_91029cd6918967": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a206c7-346e-76d1-999a-5e73a37b40a1",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Zhou ziheng <jiaranran2@gmail.com>"
+    }
+  }
+}
