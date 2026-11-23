@@ -1,0 +1,23 @@
+tests/ut/worker/test_model_runner_v2.py
+  s_91029cd6918967::t_561ccba9ad7b08 37,812-838
+  s_91029cd6918967::t_80464c93ee7034 839-840
+vllm_ascend/worker/v2/model_runner.py
+  s_91029cd6918967::t_932da102501fcb 388,390,395-406,410
+  s_91029cd6918967::t_44295a7f7a8a95 394
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a362662834aca4ded77cc863e81e38801881d7ef",
+  "prompts": {},
+  "sessions": {
+    "s_91029cd6918967": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a206c7-346e-76d1-999a-5e73a37b40a1",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Zhou ziheng <jiaranran2@gmail.com>"
+    }
+  }
+}
