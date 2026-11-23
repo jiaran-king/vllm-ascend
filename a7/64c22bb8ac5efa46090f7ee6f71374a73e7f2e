@@ -1,0 +1,31 @@
+tests/ut/worker/test_worker_weight_checker.py
+  s_91029cd6918967::t_94ace00ece387c 46,91-102,108
+tests/ut/test_ascend_config.py
+  s_91029cd6918967::t_94ace00ece387c 29-30,93-94,96-97,105
+vllm_ascend/worker/worker.py
+  s_91029cd6918967::t_94ace00ece387c 1292-1295
+vllm_ascend/worker/v2/model_runner.py
+  s_91029cd6918967::t_94ace00ece387c 691,694,699,708-709,718-720
+docs/source/user_guide/configuration/additional_config.md
+  s_91029cd6918967::t_b9b42220674a7e 58
+tests/ut/worker/test_model_runner_v2.py
+  s_91029cd6918967::t_94ace00ece387c 2794-2809
+vllm_ascend/ascend_config.py
+  s_91029cd6918967::t_94ace00ece387c 1115-1116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a764c22bb8ac5efa46090f7ee6f71374a73e7f2e",
+  "prompts": {},
+  "sessions": {
+    "s_91029cd6918967": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a206c7-346e-76d1-999a-5e73a37b40a1",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Zhou ziheng <jiaranran2@gmail.com>"
+    }
+  }
+}
