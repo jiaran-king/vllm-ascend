@@ -1,0 +1,22 @@
+tests/ut/worker/test_worker_weight_checker.py
+  s_91029cd6918967::t_e10c7ff961c9c1 69,80-89
+  s_91029cd6918967::t_486e46824373b7 90-91
+vllm_ascend/worker/worker.py
+  s_91029cd6918967::t_e10c7ff961c9c1 1287-1288
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c23d8754c78814fed972eedcedb3c2d077e065ee",
+  "prompts": {},
+  "sessions": {
+    "s_91029cd6918967": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a206c7-346e-76d1-999a-5e73a37b40a1",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Zhou ziheng <jiaranran2@gmail.com>"
+    }
+  }
+}
